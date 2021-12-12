@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/hi.gif" width="30px">, I am 🆂🅸🆃🅷🆄🅼 🅳🅸🅻🆂🅷🅰🅽
+### Hi there 👋, I am 🆂🅸🆃🅷🆄🅼 🅳🅸🅻🆂🅷🅰🅽
 #### Programmer and Software Designer 
 ##### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -11,7 +11,7 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=zues&font=default)
  -->
-<img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/image.gif?raw=true" width="300" height="300" />
+<img align="right" alt="GIF" src="assests/image.gif?raw=true" width="300" height="300" />
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Sithum-Dilshan&show_icons=true&theme=highcontrast" alt="Sithum-Dilshan | Stats" />
 
